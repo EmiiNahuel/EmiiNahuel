@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmiiNahuel
 -  Dando los primeros pasos como programador, me interesa mucho seguir aprendiendo sobre este extenso mundo de la programacion.
--Tengo conocimientos en  C# en lo que es logica y ahora estoy estudiando para ser un Programador web Full Stack
+-Tengo conocimientos en  C# ,ahora estoy estudiando para ser un Programador web Full Stack en SoyHenry.
 - Voy compartiendo mis primeros proyectos de ejercicios y cada vez ir subiendo los mas actuales, espero les guste!.
 
 <!---
