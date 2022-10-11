@@ -1,4 +1,4 @@
-- 👋 Hola, Mi nombre es Emiliano Larrosa
+- Hola 👋
 - 🙋‍♂️ 🙋‍♂️Mi nombre es Emiliano Larrosa, soy Full Stack Developer orientado al diseño Web titulo obtenido en el bootcamp intensivo de SoyHenry(+800hs). Actualmente me oriento hacia el lado del Front End, me fascina maquetar,diseñar y darle estilo a los sitios webs.
 
 Tech Skills
